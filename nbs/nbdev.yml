@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "AgenticDialog"
+  site-url: "https://abdulahad.github.io/AgenticDialog"
+  description: "Agentic CSR Solution"
+  repo-branch: main
+  repo-url: "https://github.com/abdulahad/AgenticDialog"
